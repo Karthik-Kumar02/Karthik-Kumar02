@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthik-Kumar02
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning flutter and dart
+- 👀 I’m interested in game development and full stack development
+- 🌱 I’m currently learning flutter and dart and The MERN stack
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me saikarthiksanjeevkumar@gmail.com
 
